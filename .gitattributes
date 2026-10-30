@@ -1,0 +1,4 @@
+# Единые переводы строк на всех ОС (Makefile и скрипты ломаются от CRLF)
+* text=auto eol=lf
+*.png binary
+*.jpg binary

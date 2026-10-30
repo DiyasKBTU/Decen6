@@ -1,0 +1,17 @@
+# Данные кейса нельзя публиковать (условия Decentrathon 6.0) — в репозитории их быть не должно.
+*.jsonl
+*.jsonl.gz
+rules.json
+taxonomy.json
+grand-support-copilot-handout*/
+data/
+
+# Результаты прогонов: содержат тексты обращений
+out/
+artifacts/
+
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
